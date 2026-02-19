@@ -8,6 +8,6 @@
     "deploy": "fossbook deploy"
   },
   "dependencies": {
-    "fossbook": "file:../fossbook"
+    "fossbook": "^0.0.4"
   }
 }
