@@ -8,6 +8,6 @@
     "deploy": "fossbook deploy"
   },
   "dependencies": {
-    "fossbook": "latest"
+    "fossbook": "file:../fossbook"
   }
 }
